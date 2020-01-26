@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Film Dan Acara TV</string>
+
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv_show">Acara TV</string>
+    <string name="todo">SEGALA SESUATU</string>
+    <string name="tv_title">Judul</string>
+    <string name="tv_date_release">Tanggal Rilis</string>
+    <string name="tv_description">Deskripsi</string>
+    <string name="blank">.</string>
+    <string name="change_language_settings">Ganti BAHASA</string>
+
+    <string name="error_fetch">Silakan periksa koneksi internet Anda</string>
+</resources>

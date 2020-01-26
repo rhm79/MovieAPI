@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de películas y programas de televisión</string>
+
+    <string name="tab_movie">Película</string>
+    <string name="tab_tv_show">Programa de televisión</string>
+    <string name="todo">TODO</string>
+    <string name="tv_title">Título</string>
+    <string name="tv_date_release">Fecha de lanzamiento</string>
+    <string name="tv_description">Descripción</string>
+    <string name="blank">.</string>
+    <string name="change_language_settings">Cambiar idioma</string>
+
+    <string name="error_fetch">Por favor revise su conexion a internet</string>
+</resources>
